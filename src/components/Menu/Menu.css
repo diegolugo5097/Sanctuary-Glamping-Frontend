@@ -1,0 +1,12 @@
+.navigation {
+  justify-content: flex-end;
+}
+
+.link {
+  font-family: "Montserrat Alternates", sans-serif;
+}
+
+.navbar {
+  background-color: black;
+  opacity: 0.8;
+}
